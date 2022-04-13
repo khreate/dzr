@@ -1,0 +1,23 @@
+{
+  "name": "dzr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khreate/dzr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khreate/dzr/issues"
+  },
+  "homepage": "https://github.com/khreate/dzr#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
