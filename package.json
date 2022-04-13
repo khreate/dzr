@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/khreate/dzr#readme",
   "dependencies": {
-    "discord.js": "^13.6.0"
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.31.1",
+    "discord.js": "^13.6.0",
+    "nodemon": "^2.0.15"
   }
 }

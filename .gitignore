@@ -16,3 +16,7 @@ typings/
 # dotenv environment variables file
 .env
 .env.test
+
+# config
+
+config.json
